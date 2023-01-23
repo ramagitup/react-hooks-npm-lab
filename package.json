@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/karzan7899/react-hooks-npm-lab.git"
+    "url": "git+https://github.com/ramagitup/react-hooks-npm-lab"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/karzan7899/react-hooks-npm-lab/issues"
+    "url": "https://github.com/ramagitup/react-hooks-npm-lab"
   },
-  "homepage": "https://github.com/karzan7899/react-hooks-npm-lab#readme",
+  "homepage": "https://github.com/ramagitup/react-hooks-npm-lab",
   "dependencies": {
     "date-fns": "^2.29.3",
     "serve": "^14.0.1"
